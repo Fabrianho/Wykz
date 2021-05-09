@@ -1,5 +1,13 @@
 ### Hi there, I'm [Wykz](https://github.com/Wykz) 👋
 
+
+<a href="https://twitter.com/ItsWykz">
+  <img align="left" alt="Wykz | Twitter" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/twitter.svg" />
+</a>
+
+<br />
+<br />
+
 Hi, I'm Wykz, a passionate CSharp developer from France.
 
 - 🔭 I’m currently working on [PCTools](https://github.com/Wykz/PCTools) and [FastNexus-Online](https://github.com/Wykz/FastNexus-Online)
