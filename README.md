@@ -2,7 +2,7 @@
 
 Hi, I'm Wykz, a passionate CSharp developer from France.
 
-- 🔭 I’m currently working on [PCTools](https://github.com/Wykz/PCTool) and [FastNexus-Online](https://github.com/Wykz/FastNexus-Online)
+- 🔭 I’m currently working on [PCTools](https://github.com/Wykz/PCTools) and [FastNexus-Online](https://github.com/Wykz/FastNexus-Online)
 - 🌱 I’m currently learning JavaScript and CSharp
 - 💬 Ask me about anything [here](https://github.com/Wykz/Wykz/issues)
 
