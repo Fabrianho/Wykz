@@ -14,10 +14,19 @@ Hi, I'm Wykz, a passionate CSharp developer from France.
 - 🌱 I’m currently learning JavaScript and CSharp
 - 💬 Ask me about anything [here](https://github.com/Wykz/Wykz/issues)
 
-**Languages and Tools:**  
+## Languages/Techs 📚
+<p>
+  <img alt="C#" src="https://img.shields.io/badge/c%23-%23239120.svg?&style=for-the-badge&logo=c-sharp&logoColor=white"/>
+</p>
 
-*NOTE: Top languages does not indicate my skill level or something like that, it's a github metric of which languages i have the most code on github, it's a new feature of [github-readme-stats](https://github.com/anuraghazra/github-readme-stats)*
 
+## My Tools 🧰
+<p>
+  <img alt="Windows 10" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
+  <img alt="Kali Linux" src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white" />
+  <img alt="Git" src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/>
+  <img alt="GitHub" src="https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"/>
+</p>
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Wykz&show_icons=true&include_all_commits=true&theme=material-palenight" alt="Anurag's github stats" />
