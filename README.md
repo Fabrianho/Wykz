@@ -10,7 +10,6 @@
 
 Hi, I'm Wykz, a passionate CSharp developer from France.
 
-- 🔭 I’m currently working on [PCTools](https://github.com/Wykz/PCTools)
 - 🌱 I’m currently learning JavaScript and CSharp
 - 💬 Ask me about anything [here](https://github.com/Wykz/Wykz/issues)
 
